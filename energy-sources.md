@@ -2,7 +2,7 @@
 
 
 ##Non-Renewable:{#nonrenewable}
-
+A non-renewable resource is an economic value that cannot be replaced by natural means on a level equal to it's consumption. 
 ### Coal:{#coal}
 *written by Brianna Ramos*
 
@@ -10,15 +10,19 @@ Coal is a nonrenewable source because coal comes from fossil fuels that take mil
 
 https://www.eia.gov/tools/faqs/faq.cfm?id=427&t=3
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/6/6e/Farmington-Mine-Disaster-smoke.jpg)
+http://www.durhamintime.org.uk/durham_miner/coal_mining_timeline.pdf
 
-### Oil:{#oil}
-  *written by Bryant Pedreros*
+### Oil:{#oil}   *written by Bryant Pedreros*
    
 Oil supplies around 34% of the worlds energy needs. It is often referred to as fossil fuel because the oil is extracted from  built up organic material and fossil material remains that over time, breaks down into hydrocarbons. Oil is mostly used as transportation fuel but it is also found in many other products like fertilizers, makeup, paints and fabrics. Our lives would be different without oil. United states only uses over 19.5 million barrels of crude oil each day. 
 
-   By 1859, people realized the value of oil and the drilling began.The Pennsylvania Rock Oil Company was the first the begin the process of drilling oil from the ground, rather than collecting what speed to the top. However, it wasn't until 2870 that the oil industry really boomed. Even today oil continues to be a huge commodity and is still being drilled for in many part of the world. Crude  oil is found deep under the earths surface and has been there for millions of years. It is actually formed by fossilized plants and animal mattr. Oil is also found deep in the oceans floor, but is more difficult to get at. There is also a form of oil found in plants. Vegetable oil is extracted from sunflowers, corn, coconuts, peanuts, and palm oil too. Oil is used for medicine, paint, cooking, pens, clothing, plastic bottles, and lubricants too. 
+   By 1859, people realized the value of oil and the drilling began.The Pennsylvania Rock Oil Company was the first the begin the process of drilling oil from the ground, rather than collecting what speed to the top. However, it wasn't until 2870 that the oil industry really boomed. Even today oil continues to be a huge commodity and is still being drilled for in many part of the world. Crude  oil is found deep under the earths surface and has been there for millions of years. It is actually formed by fossilized plants and animal mattr. Oil is also found deep in the oceans floor, but is more difficult to get at. There is also a form of oil found in plants. Vegetable oil is extracted from sunflowers, corn, coconuts, peanuts, and palm oil too. Oil is used for medicine, paint, cooking, pens, clothing, plastic bottles, and lubricants too.  
 
-  Oil is so valuable it is called, " Texas Tea" or Black Gold". Crude oil has been used for over 5,000 years. Also oil is measured in barrels, one barrel is equal to 42 gallons or 159 liters. Oil is considered as " Non Renewable" that means it could run out. I also found that Saudi Arabia is the biggest supplier of oil in the world.  Oil is a hydrocarbon derived from material typically from seas and lakes buried under great pressure and heat. It has three main properties which are density, viscosity, and solubility .  Oil
+  Oil is so valuable it is called, " Texas Tea" or Black Gold". Crude oil has been used for over 5,000 years. Also oil is measured in barrels, one barrel is equal to 42 gallons or 159 liters. Oil is considered as " Non Renewable" that means it could run out. I also found that Saudi Arabia is the biggest supplier of oil in the world.  Oil is a hydrocarbon derived from material typically from seas and lakes buried under great pressure and heat. It has three main properties which are density, viscosity, and solubility . 
+
+![enter image description here](http://cdn.oilprice.com/images/tinymce/Evan1/ada2447.png)
+
+![enter image description here](http://www.ucsusa.org/sites/default/files/legacy/assets/images/cv/half-the-oil-savings-plan/half-the-oil-savings-over-time-bar-graph.jpg)
 
 ### Natural Gas:{#gas}
 *written by Josh Huayamave*
@@ -29,6 +33,8 @@ Natural gases provide a huge amount of energy for the united states, a huge frac
 
 As of January 1, 2013 there were about 2,276 trillion cubic feet of technically recoverable natural gases in the united states. By technically recoverable i mean natural gases that are available from the ground at the moment.  When companies are digging for natural gas and find it they use pipes that lead to gas tanks to retrieve it and from there the gas tanks can be shipped to natural gas plants and even to other countries.  At the rate of the U.S. consumption of natural gases, there is enough in the U.S. to last at an estimate of 84 years. But the actual amount of years these resources will last will depend on the amount consumed each year, natural gas imports and exports, and additions to natural gas reserves. I think at the rate the U.S. is at right now, we are going to continue to use more natural gases for electricity and by the end of the year, natural gases are going to be supplying more electricity for people than coal and oil do.
 
+
+![img](http://larucola.org/wp-content/uploads/gas-elettricita%CC%80.jpg)
 **Sources**:
 
  - [Power Plants Infographic](https://www.washingtonpost.com/graphics/national/power-plants/)
@@ -89,6 +95,8 @@ About 4% of the electricity generated is produced by wind energy. It is estimate
 
 The use of wind energy is very useful because people can use it without harming the Earth. I think the use of wind will increase in the future because people use a lot of electricity. In the future I think there will be more wind turbines and generators. The use of electricity in the Earth is caused mainly by wind. People use electricity to charge their things or plug in important things. If people use a lot of electricity there will be an increase in wind energy being used. Hopefully in the future, we will use more of these natural resources that don’t affect the Earth. 
 
+![enter image description ⧸⧸here](http://energy.gov/sites/prod/files/wv_theme2_image.jpg)
+
 ### Hydroelectric:{#hydro}
 *written by Felipe Ogando*
 
@@ -111,7 +119,8 @@ There will also be great leaps ahead for hydropower technology throughout the wo
 https://www.washingtonpost.com/graphics/national/power-plants/
 
 ### Geothermal:{#geothermal}
-Geothermal energy is heat from the Earth.Resources of Geothermal energy are hot water or hot rocks that are found beneath Earth's surface. Magma is another resource of Geothermal energy. The heat from the Earth is clean and sustainable. Geothermal heat pumps are used to heat or cool buildings. In the winter the heat pumps take the heat from the heat exchanger and pumps it into the indoor air delivery system. In the summer it is reversed and some of the heat is used for hot water. Many other technologies are being used to take advantage of geothermal energy.
+Geothermal energy is heat from the Earth.Resources of Geothermal energy are hot water or hot rocks that are found beneath Earth's surface. Magma is another resource of Geothermal energy. The heat from the Earth is clean and sustainable. Geothermal heat pumps are used to heat or cool buildings. In the winter the heat pumps take th heat from the heat exchanger and pumps it into the indoor air delivery system. In the summer it is reversed and some of the heat is used for hot water. Many other technologies are being used to take advantage of geothermal energy. 
+[Video on Geothermal Energy](https://youtu.be/y_ZGBhy48YI)
 ![enter image description here](http://pesn.com/2007/01/22/9500449_MIT_Geothermal_Report/Geothermal_Map_USA_2004_hj70.jpg)
 ![enter image description here](http://cleantechnica.com/files/2010/12/geothermal-heat-pumps.jpg)
 
@@ -120,4 +129,7 @@ Geothermal energy is heat from the Earth.Resources of Geothermal energy are hot 
  
   we have used biomass energy, or bio-energy the energy from plants and plants derived materials since people began burning wood to cook food and keep warm. Wood is still the largest biomass energy resources today, but other sources of biomass can also be used. Biomass can be used for fuels, production, and products that would otherwise be made from fuels. In such scenarios, biomass can provide an array of benefits. 
         
-   The use of biomass energy has the potential to great reduce greenhouse gas emissions. Burning biomass release about the same amount of carbon dioxide as burning fossil fuels. However, fossil fuel release carbon dioxide  captured by photosynthesis millions of years ago, an essentially "new" greenhouse gas. Biomass on the other hand, release carbon dioxide that is largely balanced by the carbon dioxide captured in its own growth. They can also use to reduce dependence on foreign oil because bio-fuels are the only renewable  liquid transportation fuels available. Biomass energy supports U.S. agriculture and forests product industries. The main biomass feed stocks for power are paper mill residue, lumber mill scrap, and munic       
+   The use of biomass energy has the potential to great reduce greenhouse gas emissions. Burning biomass release about the same amount of carbon dioxide as burning fossil fuels. However, fossil fuel release carbon dioxide  captured by photosynthesis millions of years ago, an essentially "new" greenhouse gas. Biomass on the other hand, release carbon dioxide that is largely balanced by the carbon dioxide captured in its own growth. They can also use to reduce dependence on foreign oil because bio-fuels are the only renewable  liquid transportation fuels available. Biomass energy supports U.S. agriculture and forests product industries. The main biomass feed stocks for power are paper mill residue, and lumber mill scrap.      
+
+![enter image description ⧸⧸⧸⧸here](http://www.energy.ca.gov/biomass/images/biomass_graphic.jpg)
+![img](http://www.eia.gov/energyexplained/images/BIOMASSTYPES.jpg)

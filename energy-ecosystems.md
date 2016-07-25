@@ -1,4 +1,5 @@
 # Energy Flow in Ecosystems:
+Ecosystems maintain themselves by cycling energy and nutrients obtained by external sources. First, the trophic level, primary producers, ( plants, algae, etc..) use solar energy to produce organic plant  material. Herbivores, makes up the second trophic level. Predators that eat herbivores, makes up the third trophic level. Decomposers, breaks down wastes and dead organism and returns the nutrients to the soil. On average only about 10% of the energy from a tropic level can be passed on to the next level. Processes that reduces the energy, includes respiration, defecation, and non predatory death. The low rate of the energy transfer between the trophic level  makes decomposer more important than producer 
 
 ### Food Chains:{#foodchains}
 Food chain- a series of organisms that each dependent on the next organism as a source of food. The food chain starts with producers, herbivores, secondary consumers, and finishes with the Apex predator. For an example, a lion is a secondary consumer. 
